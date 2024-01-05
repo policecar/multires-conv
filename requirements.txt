@@ -7,3 +7,6 @@ torchvision
 einops
 wfdb
 scikit-learn
+datasets
+torchtext
+PyWavelets
